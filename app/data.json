@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "john_doe@example.com",
+        "gender": "male",
+        "roles": "admin viewer manager"
+    },
+    {
+        "id": 2,
+        "first_name": "Donald",
+        "last_name": "Miller",
+        "email": "donald@example.com",
+        "password": "123",
+        "gender": "male",
+        "roles": "viewer"
+    },
+    {
+        "id": 3,
+        "first_name": "Jane",
+        "last_name": "Doe",
+        "email": "jane_doe@example.com",
+        "password": "123",
+        "gender": "female",
+        "roles": "viewer"
+    },
+    {
+        "id": 4,
+        "first_name": "John",
+        "last_name": "Smith",
+        "email": "john_smith@example.com",
+        "password": "123",
+        "gender": "male",
+        "roles": "viewer manager"
+    },
+    {
+        "id": 5,
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "user@example.com",
+        "password": "123",
+        "gender": "male",
+        "roles": "admin viewer manager"
+    }
+]
